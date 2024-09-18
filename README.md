@@ -16,23 +16,26 @@ Hi, I'm Fernando, a biologist and developer with an interest in bioinformatics, 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Languages
+<p align="left">
 
 - 🇧🇷  **Portuguese** - Native
 - 🇺🇸  **English** - Fluent
 - 🇫🇷  **French** - Intermediate
+- 🇪🇸  **Spanish** - Beginner
+- 🇯🇵  **Japanese** *Learning*
+</p>
 
-*Currently Learning* 💡
-
-- 🇪🇸  **Spanish**
-- 🇯🇵  **Japanese**
-
-### Socials
+### You May Find Me Here
 
 <p align="left"> 
   <a href="http://www.instagram.com/horse_simulator" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="28" height="28" /> </picture> </a>
   <a href="https://discord.com/users/fernandocido" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> 
   <a href="https://www.youtube.com/@fernandocidofreitas" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a>
+</p>
+
+### *Or Most Likely Here*
+<p align="left"> 
+<a href="https://steamcommunity.com/id/fernandocido/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" width="150"/></a>
 </p>
 
 ### Support Me
