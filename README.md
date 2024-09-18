@@ -22,7 +22,7 @@ Hi, I'm Fernando, a biologist and developer with an interest in bioinformatics, 
 - 🇺🇸  **English** - Fluent
 - 🇫🇷  **French** - Intermediate
 - 🇪🇸  **Spanish** - Beginner
-- 🇯🇵  **Japanese** *Learning*
+- 🇯🇵  **Japanese** - *Learning*
 </p>
 
 ### You May Find Me Here
