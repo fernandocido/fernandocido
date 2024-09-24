@@ -16,15 +16,6 @@ Hi, I'm Fernando, a biologist and developer with an interest in bioinformatics, 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-<p align="left">
-
-- 🇧🇷  **Portuguese** - Native
-- 🇺🇸  **English** - Fluent
-- 🇫🇷  **French** - Intermediate
-- 🇪🇸  **Spanish** - Beginner
-- 🇯🇵  **Japanese** - *Learning*
-</p>
-
 ### You May Find Me Here
 
 <p align="left"> 
