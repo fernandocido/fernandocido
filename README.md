@@ -2,7 +2,7 @@ Fernando "Cido" Freitas
 ========================================
 biologist && newbie-developer
 -----------------------------
-Hi, I'm Fernando, a biologist and developer with an interest in bioinformatics, mobile apps and pentesting. In my free time, I enjoy gaming and playing guitar. Feel free to reach out, I'm always up for a good chat.
+Hi! I'm Fernando, a biologist and developer with an interest in bioinformatics, mobile apps and pentesting. In my free time, I enjoy gaming and playing guitar. Feel free to reach out, I'm always up for a good chat.
 
 ### Skills
 
